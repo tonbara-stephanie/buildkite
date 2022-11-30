@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
+ # .gitattributes file which reclassifies `.js` files as Java:
+*.xml linguist-language=Java
 *.xml linguist-detectable=true
 *.jar linguist-detactable=true
