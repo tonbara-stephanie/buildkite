@@ -10,5 +10,5 @@ $ docker image ls
 # Run Docker Image 
 $ docker run -p 9090:8080 spring-boot-docker.jar
 
-# Ports
+# Ports to Access Apps
 In the run command, we have specified that the port 8080 on the container should be mapped to the port 9090 on the Host OS.
